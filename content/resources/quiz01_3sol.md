@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/16bf5ea0ccc9562b44fef17b5c8f2788_quiz01_3sol.pdf
 file_size: 181913
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

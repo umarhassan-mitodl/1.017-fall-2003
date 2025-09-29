@@ -4,6 +4,8 @@ description: Supporting file for Problem set 3.
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/8655d7f01be35834b796b70fe8bde7dc_ozone.m
 file_size: 597
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
