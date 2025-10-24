@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/c2f82224e1c1ddd1905c5f6305e3c990_class03_22.pdf
 file_size: 192472
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
